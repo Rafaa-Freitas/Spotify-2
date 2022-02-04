@@ -48,4 +48,11 @@ Para testar você vai precisar de:
 - Para poder funcionar, você precisa dar play alguma vez em qualquer musica de uma de suas playlists, depois pode dar pause e utilizar o Spotify através do projeto.
 - Nem todas as features originais do Spotify foram implementadas, mas você pode dar play, pause, alterar o volume, trocar de playlist e musicas da forma que desejar, só é importante que você não feche seu Spotify Desktop durante o uso do projeto.
 
+# Como desconecto?
+ -É simples, basta clicar no seu nome ou imagem. Exemplo:
+ 
+ ![image](https://user-images.githubusercontent.com/69989761/152615208-e6b15399-27cf-4acb-a506-b55e9010056a.png)
+
+
+
 
